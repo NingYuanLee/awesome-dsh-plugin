@@ -1,0 +1,6 @@
+url: https://github.com/NingYuanLee/dsh-jev-mcp
+name: NingYuanLee/dsh-jev-mcp
+category: tools
+description:
+  en: "Run the Jev MCP server inside DeepSeek Harness: typed judgment tools (verify, screen, find, review, gate) register as mcp__jev__* while provider keys stay in DSH credentials."
+  zh: "在 DeepSeek Harness 内运行 Jev MCP 服务器：verify、screen、find、review、gate 等类型化判断工具注册为 mcp__jev__*，提供方密钥保存在 DSH 凭据中。"
